@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RahmanoForOCS", "RahmanoForOCS\RahmanoForOCS.csproj", "{49496115-4874-4343-80DB-86FA8A6F82B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49496115-4874-4343-80DB-86FA8A6F82B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49496115-4874-4343-80DB-86FA8A6F82B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49496115-4874-4343-80DB-86FA8A6F82B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49496115-4874-4343-80DB-86FA8A6F82B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1050CF4C-AA83-4965-8EEB-9F4F2FF025CE}
+	EndGlobalSection
+EndGlobal
